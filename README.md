@@ -1,2 +1,2 @@
-# Redux.Node.js.
+# Redux.Node.js
 Redux with Node.js
